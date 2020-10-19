@@ -1,21 +1,21 @@
 {
   "main": {
-    "name":"Ramón Prado Moreno",
+    "name":"Ramón Prado",
     "occupation":"Software Engineer",
-    "description":"I love coding and  at the moment, I feel amazed by the cloud world and all it's potential. Very recently I felt the urge to learn and obtained an AWS certification, My current objective is to keep learning and become a cloud architect.",
+    "description":"currently employed by Minsait where I work as a software engineer specialized in creating microservicess for a cybersecurity ecosystem",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"Hey there! I feel amazed by the cloud world and all it's potential. Very recently I felt the urge to learn and obtained an AWS certification. My current objective is to keep learning and become a cloud architect.",
+    "contactmessage":"Hey there! I feel amazed by the cloud world and all it's potential. Very recently I felt the urge to learn and obtained an AWS certification, My current objective is to keep learning and become a cloud architect",
+    "email": "rpradomoreno@gmail.com",
+    "phone": "+34 619 45 86 15",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Calle Costa Brava 47, esc 3, piso 3, letra D",
+      "city":"Madrid",
+      "state":"Madrid",
+      "zip": "28034"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.ramonpradodev.com",
+    "resumedownload":"http://www.ramonpradodev.com",
     "social":[
       {
         "name":"facebook",
@@ -34,17 +34,17 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ramonpradomoreno/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/reymon093/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/RamonPradoMoreno",
         "className":"fa fa-github"
       },
       {
@@ -58,30 +58,42 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Universidad Pontificia Comillas",
+        "degree":"Masters in Telecommunications Engineering",
+        "graduated":"May 2017",
+        "description":"This Masters allowed me to improve my general engineering skills and aquire the official status of engineer acording to spanish law"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of San Diego",
+        "degree":"Telecommunications Engineering Degree",
+        "graduated":"May 2015",
+        "description":"I did an exchange year at USD where I had an awesome year and perfected my english to a C1 level"
+      },
+      {
+        "school":"Universidad Pontificia Comillas",
+        "degree":"Telecommunications Engineering Degree",
+        "graduated":"May 2015",
+        "description":"This degree has taught me a lot, from a technical point of view I specialized in Computer Science and from a human perspective it has taught me about not giving up, the value of sacrifice and my hidden love for the pursuit of knowledge"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Minsait",
+        "title":"Consultant - Software Engineer ",
+        "years":"November 2019 - Present",
+        "description":"I am a member of the egates team. Our team develops the software that is used for traveler access control in many airports. I develop and manage a Java microservices environment that uses the Quarkus framework. The most important elements of our microservice architecture are: An Identity and access manager (IAM), we are using keycloak, an API Gateway developed by the team and an ELK (Elasticsearch, Logstash and Kibana) stack that is being used for centralizing logs and metrics."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Minsait ",
+        "title":"Consultant - Data Engineer",
+        "years":"April 2019 - November 2019",
+        "description":"I was a member of the Anomaly Detection team. I was in charge of managing and developing machine learning microservices that detect anomalies in an external application execution. Transactions are automatically analyzed in real time and alerts are triggered when a suspicious behavior is detected."
+      },
+      {
+        "company":"Minsait ",
+        "title":"Consultant - Software Developer",
+        "years":"July 2017 - April 2019",
+        "description":"I was a member of the Software development team in the cybersecurity department. My main responsability were the creation and maintenance of: Java backend applications using continuous integration through Jenkins, REST interfaces for communications and dependency management with Maven and Microservices developed in Python using the Flask framework. This microservices are used for fraud detection with machine learning and data anlytics."
       }
     ],
     "skills":[
